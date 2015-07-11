@@ -1,6 +1,6 @@
 Package.describe({
     name: 'zhaoyao91:sl-js',
-    version: '1.0.0',
+    version: '1.0.1',
     summary: 'a simple schema language using plain javascript.',
     git: 'https://github.com/zhaoyao91/meteor-schema-language-js',
     documentation: 'README.md'
