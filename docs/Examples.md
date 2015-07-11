@@ -286,9 +286,9 @@ Also note, these examples do not cover all usages of this package and schema val
         }
     };
     var fail1 = {
-        id: '123',
+        id: '123', // no no no
         name: 'bob',
-        role: 'admin', // no no no
+        role: 'admin',
         options: {
             bindPhone: true
         }
