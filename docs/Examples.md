@@ -1,5 +1,5 @@
 # Examples
-This doc assumes you have installed and set the package correctly.
+This doc assumes you have installed and set the package correctly. (Not yet? see [installation doc](https://github.com/zhaoyao91/meteor-schema-language-js#installation))
 
 For simplicity, these examples only use `test` method of the schema validation. In practice, you can use `test`, `validate`, or `check`. For the differences, see [doc](https://github.com/zhaoyao91/meteor-schema-validation#schema-validation-1).
 

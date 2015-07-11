@@ -29,12 +29,10 @@ In [name, ...], if name is one of the keys of the following list, it will be map
 - **some -> some::**
 - **oneOf -> or::**
 - **optional -> optional::**
-
 - **where -> where:**
 - **type -> type:**
 - **class -> class:**
 - **length -> length:**
-
 - **== -> ==:**
 - **=== -> ===:**
 - **!= -> !=:**
@@ -60,7 +58,7 @@ If a schema is **[optional, ...]** or **[optional::, ...]**
 - **is there are more than one sub schemas => {name: 'optional', 'schemas: [{name: 'and', schemas: [*...]}]'}**
 
 ## Usage Examples
-see [examples](https://github.com/zhaoyao91/meteor-schema-language-js/blob/master/docs/Examples.js)
+see [examples](https://github.com/zhaoyao91/meteor-schema-language-js/blob/master/docs/Examples.md)
 
 ## Tests
 In the project with this package, run `meteor test-packages zhaoyao91:sl-js`.
